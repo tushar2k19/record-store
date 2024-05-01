@@ -17,9 +17,10 @@ class ArtistsController < ApplicationController
   # POST /artists
   def create
     @artist = Artist.new(artist_params)
-
+    @artist.user_id = current_user.id
+    @artist.save
     if @artist.save
-      render json: @artist, status: :created, location: @artist
+      render json: @artist, status: :created
     else
       render json: @artist.errors, status: :unprocessable_entity
     end
