@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16" width="22" height="16">
+	<title>circle-selected</title>
+	<defs>
+		<image  width="22" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQBAMAAADgw5IVAAAAAXNSR0IB2cksfwAAACRQTFRF7WFb7GFb52BYAAAA62Bc62Bc7GBc7WJc6mBZ7GFb6mBb62BaIK5ssQAAAAx0Uk5T3/8gAECAUH9w73CAWV64YAAAADZJREFUeJxjYEACggjAIKgEA0C2MQwQZLsmw9nmghJwtqWgJFa2laA0Qm+qM7qZCJehuE0JAQCPChdRcjJAPQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>

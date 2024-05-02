@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16" width="22" height="16">
+	<title>corner-unselected</title>
+	<defs>
+		<image  width="22" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQBAMAAADgw5IVAAAAAXNSR0IB2cksfwAAAA9QTFRFgYGBgYGBgICAAAAAg4ODpSxGmwAAAAV0Uk5T3/8gAF/UUuJNAAAAOUlEQVR4nGNgQAKCCMAgqAQDQLYxDBDBdkawTYQRbEcE20QQwXZEsE0EEWwjJSVlIBvhMhS3KSEAAGQcFnl14SPDAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>

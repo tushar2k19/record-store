@@ -1,0 +1,16 @@
+<svg width="90" height="90" viewBox="0 0 90 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="89" height="89" rx="6.5" fill="white"/>
+<path d="M30 38.3333H60" stroke="#8A8B8C" stroke-width="1.66667"/>
+<path d="M30 42.9167H60" stroke="#8A8B8C" stroke-width="1.66667"/>
+<path d="M30 47.5H60" stroke="#8A8B8C" stroke-width="1.66667"/>
+<path d="M30 52.0833H60" stroke="#8A8B8C" stroke-width="1.66667"/>
+<mask id="path-6-outside-1_332_9278" maskUnits="userSpaceOnUse" x="30" y="36.6667" width="17" height="17" fill="black">
+<rect fill="white" x="30" y="36.6667" width="17" height="17"/>
+<path d="M30 36.6667H45V53.3334H30V36.6667Z"/>
+</mask>
+<path d="M30 36.6667H45V53.3334H30V36.6667Z" fill="white"/>
+<rect x="30.8333" y="37.5" width="13.3333" height="15" rx="0.833333" fill="white" stroke="#8A8B8C" stroke-width="1.66667"/>
+<path d="M30.833 49.1666L34.1663 45.8333L36.6663 47.5L40.833 43.3333L44.1663 46.6666" stroke="#8A8B8C" stroke-width="1.66667"/>
+<path d="M43.3333 36.6667V53.3334H46.6667V36.6667H43.3333Z" fill="white" mask="url(#path-6-outside-1_332_9278)"/>
+<rect x="0.5" y="0.5" width="89" height="89" rx="6.5" stroke="#D9D9DA"/>
+</svg>
