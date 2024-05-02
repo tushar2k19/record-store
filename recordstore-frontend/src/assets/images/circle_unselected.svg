@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16" width="22" height="16">
+	<title>circle-unselected</title>
+	<defs>
+		<image  width="22" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQBAMAAADgw5IVAAAAAXNSR0IB2cksfwAAAB5QTFRFgYGBgYGBgICAAAAAgICAgICAgICAgoKCgICAgYGBI6o0RwAAAAp0Uk5T3/8gAECAUH9w71gXvp8AAAA2SURBVHicY2BAAoIIwCCoBANAtjEMEGS7JsPZ5oIScLaloCRWtoWgKEJvqjO6mQiXobhNCQEAjQ4XSXQxgb0AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>

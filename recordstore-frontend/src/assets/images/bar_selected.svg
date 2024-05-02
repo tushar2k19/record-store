@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16" width="22" height="16">
+	<title>bar-selected</title>
+	<defs>
+		<image  width="22" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQAgMAAABvg2e1AAAAAXNSR0IB2cksfwAAAAxQTFRF7WFb7GFb52BYAAAATiYVegAAAAR0Uk5T3/8gAOa43xoAAAA0SURBVHicY2CAgFAQCGCIWgUEAQzx/4GAEPWBgRlEfQ0Nx6R+rVodwBAAMjgAZjTI5FULAFYhM7lNjau9AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>
